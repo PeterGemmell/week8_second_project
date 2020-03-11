@@ -1,6 +1,6 @@
 # week8_second_project
 
-Group project-web app about spooky and haunted places throughout Scotland
+Group project-web app about spooky and haunted places throughout Scotland.
 
 To launch:
 
@@ -16,4 +16,4 @@ To launch:
 
 *still in the server folder, use the command 'npm run server:dev'
 
-*switch back to the client terminal window in the command line. copy the local host route 'http://localhost:8080/', open a new tab in your browser and paste this in
+*switch back to the client terminal window in the command line. copy the local host route 'http://localhost:8080/' , open a new tab in your browser and paste this in
